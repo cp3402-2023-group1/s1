@@ -12,7 +12,7 @@ public class PrintInitials {
         System.out.println("    regerag   efja nejramgv rgre    **       **  **       **");
         System.out.println("           **         **         **");
         System.out.println("           **                    **");
-        System.out.println("           **   gergergvergv                 **");
+        System.out.println("           **   ger wwwwwwwwwwwwwwwwwwwwwwwqwwwwwwgergvergv                 **");
         System.out.println("           **                    **");
         System.out.println("           **                    **");
         System.out.println();
